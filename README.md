@@ -14,7 +14,7 @@ Just put the JIRA issue number in your commit message, and once it is pushed to 
 
 ### Feature branches and pull requests
 
-JIRA will also include feature branches and pull requests if any commit within them contains the JIRA issue number - it won't check the name of the branch or PR.
+JIRA will also include feature branches and pull requests if the branch name or any commit within them contains the JIRA issue number
 
 ![](https://raw.githubusercontent.com/CRUKorg/jira-github-sandbox/master/images/branch-and-pr.png)
 
