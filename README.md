@@ -68,4 +68,4 @@ This should fix the problem for your future commits.
 ## External links
 
 * [Use the JIRA DVCS Connector Add-on](https://confluence.atlassian.com/display/BITBUCKET/Use+the+JIRA+DVCS+Connector+Add-on) - Atlassian documentation on the JIRA DVCS Connector with more of what is now possible from commit messages
-* [DVCS Accounts](https://jira.cancerresearchuk.org/secure/admin/ConfigureDvcsOrganizations!default.jspa) - JIRA plugin administration page
+* [DVCS Accounts](https://jira.cancerresearchuk.org/secure/admin/ConfigureDvcsOrganizations!default.jspa) - JIRA plugin administration page (JIRA admins only)
