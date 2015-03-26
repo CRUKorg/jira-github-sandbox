@@ -12,32 +12,36 @@ Just put the JIRA issue number in your commit message, and once it is pushed to 
 
 ![](https://raw.githubusercontent.com/CRUKorg/jira-github-sandbox/master/images/jira-mbg-8582-commits.png)
 
-## Feature branches and pull requests
+### Feature branches and pull requests
 
 JIRA will also include feature branches and pull requests if any commit within them contains the JIRA issue number - it won't check the name of the branch or PR.
 
 ![](https://raw.githubusercontent.com/CRUKorg/jira-github-sandbox/master/images/branch-and-pr.png)
 
-## Making comments from your commit messages
+### Making comments from your commit messages
 
 Include #comment in your commit message to automatically make a matching comment on the JIRA issue page
 
+This commit message on GitHub:
+
 ![](https://raw.githubusercontent.com/CRUKorg/jira-github-sandbox/master/images/github-comment.png)
+
+Makes this comment on MD-55 in JIRA!
 
 ![](https://raw.githubusercontent.com/CRUKorg/jira-github-sandbox/master/images/jira-comment.png)
 
 ## FAQ
 
-### What repositories and JIRA projects can I use this on?
+#### What repositories and JIRA projects can I use this on?
 
 All GitHub repositories under the [CRUKorg](https://github.com/CRUKorg/) organisation, and all [projects](https://jira.cancerresearchuk.org/secure/BrowseProjects.jspa) in CRUK JIRA.
 
-### I pushed my commit to GitHub but it didn't hasn't appeared on the JIRA issue page
+#### I pushed my commit to GitHub but it didn't hasn't appeared on the JIRA issue page
 
 Do not worry, it can take up to 60 minutes for JIRA to update with the latest commits from GitHub.
 
-### My commit appeared in the JIRA issue, but it isn't attributed to my JIRA account
-### OR: I made a #comment in my commit message, but it never came through on the JIRA issue page
+#### My commit appeared in the JIRA issue, but it isn't attributed to my JIRA account
+#### OR: I made a #comment in my commit message, but it never came through on the JIRA issue page
 
 ![](https://raw.githubusercontent.com/CRUKorg/jira-github-sandbox/master/images/unattributed-commit.png)
 
