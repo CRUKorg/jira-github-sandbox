@@ -24,7 +24,7 @@ Include #comment in your commit message to automatically make a matching comment
 
 ![](https://raw.githubusercontent.com/CRUKorg/jira-github-sandbox/master/images/github-comment.png)
 
-[JIRA issue comment from the above commit]
+![](https://raw.githubusercontent.com/CRUKorg/jira-github-sandbox/master/images/jira-comment.png)
 
 ## FAQ
 
