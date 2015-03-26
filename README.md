@@ -36,7 +36,7 @@ Makes this comment on MD-55 in JIRA!
 
 All GitHub repositories under the [CRUKorg](https://github.com/CRUKorg/) organisation, and all [projects](https://jira.cancerresearchuk.org/secure/BrowseProjects.jspa) in CRUK JIRA.
 
-#### I pushed my commit to GitHub but it didn't hasn't appeared on the JIRA issue page
+#### I pushed my commit to GitHub but it hasn't appeared on the JIRA issue page
 
 Do not worry, it can take up to 60 minutes for JIRA to update with the latest commits from GitHub.
 
